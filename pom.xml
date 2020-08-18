@@ -3,18 +3,18 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.vdurmont</groupId>
-    <artifactId>emoji-java</artifactId>
+    <artifactId>emoji-java-master</artifactId>
     <version>5.1.1</version>
     <packaging>jar</packaging>
 
-    <name>emoji-java</name>
-    <url>https://github.com/vdurmont/emoji-java</url>
+    <name>emoji-java-master</name>
+    <url>https://github.com/weisehn/emoji-java-master</url>
     <description>The missing emoji library for Java.</description>
 
     <scm>
-        <connection>scm:git:git@github.com:vdurmont/emoji-java.git</connection>
-        <developerConnection>scm:git:git@github.com:vdurmont/emoji-java.git</developerConnection>
-        <url>git@github.com:vdurmont/emoji-java.git</url>
+        <connection>scm:git:git@github.com:weisehn/emoji-java-master.git</connection>
+        <developerConnection>scm:git:git@github.com:weisehn/emoji-java-master.git</developerConnection>
+        <url>git@github.com:weisehn/emoji-java-master.git</url>
     </scm>
 
     <developers>
